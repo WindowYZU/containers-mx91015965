@@ -17,6 +17,8 @@ public class NewJPanel extends javax.swing.JPanel {
      */
     public NewJPanel() {
         initComponents();
+        String a=jTextField1.getText();
+        System.out.println(a);
     }
 
     /**
